@@ -7,6 +7,7 @@ git commit -m "Note"
 b4:
 git config --global user.name "zivhdinfo" 
 git config --global user.email "zivhd.dev@outlook.com.vn"
++đẩy lần đầu:
 push -u origin master 
 
 git config --global user.name "Username"
@@ -16,7 +17,3 @@ git config --global user.email "your@email.com"
 git add -A  
 git commit -m "Note"
 git push 
-
-+Đem code từ master sang demonhanh
-
-git merge demonhanh  | -> trong đó demonhanh là tên nhánhgit add
