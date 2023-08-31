@@ -16,3 +16,7 @@ git config --global user.email "your@email.com"
 git add -A  
 git commit -m "Note"
 git push 
+
++Đem code từ master sang demonhanh
+
+git merge demonhanh  | -> trong đó demonhanh là tên nhánhgit add
