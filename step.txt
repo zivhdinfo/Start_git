@@ -1,3 +1,6 @@
+git config --global user.name "zivhdinfo" 
+git config --global user.email "zivhd.dev@outlook.com.vn"
+
 b1: câu lệnh: git init  |  là khởi tạo dự án
 b2: git remote add origin https://github.com/zivhdinfo/Start_git.git | liên kết giữa local và remote
 chú thích: https://github.com/zivhdinfo/Start_git.git là link dự án.
@@ -7,8 +10,7 @@ git add -A
 git commit -m "Note"
 
 b4:
-git config --global user.name "zivhdinfo" 
-git config --global user.email "zivhd.dev@outlook.com.vn"
+
 +đẩy lần đầu:
 
 git push -u origin master | master là tên nhánh
