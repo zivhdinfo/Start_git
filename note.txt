@@ -1,0 +1,3 @@
+b1: câu lệnh: git init  |  là khởi tạo dự án
+b2: git remote add origin https://github.com/zivhdinfo/Start_git.git | liên kết giữa local và remote
+chú thích: https://github.com/zivhdinfo/Start_git.git là link dự án.
