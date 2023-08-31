@@ -2,13 +2,16 @@ b1: câu lệnh: git init  |  là khởi tạo dự án
 b2: git remote add origin https://github.com/zivhdinfo/Start_git.git | liên kết giữa local và remote
 chú thích: https://github.com/zivhdinfo/Start_git.git là link dự án.
 b3: đẩy file lên git | cmd: 
+
 git add -A  
 git commit -m "Note"
+
 b4:
 git config --global user.name "zivhdinfo" 
 git config --global user.email "zivhd.dev@outlook.com.vn"
 +đẩy lần đầu:
-push -u origin master 
+
+git push -u origin master | master là tên nhánh
 
 git config --global user.name "Username"
 git config --global user.email "your@email.com"
@@ -20,3 +23,4 @@ git push
 
 ++ tạo nhánh 
 git checkout -b newBranch | newBranch là tên nhánh
+
