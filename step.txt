@@ -20,3 +20,5 @@ git push
 
 ++ tạo nhánh 
 git checkout -b newBranch | newBranch là tên nhánh
+
+git branch | xem các nhánh hiện có
